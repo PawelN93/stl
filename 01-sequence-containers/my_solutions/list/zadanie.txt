@@ -1,0 +1,11 @@
+Zadanie
+Znajdź dokumentację std::list<T> na cppreference.com
+Stwórz nowy plik i napisz funkcję main()
+Stwórz listę zawierającą elementy od 0 do 5
+Wyświetl listę
+Usuń trzeci element z listy
+Dodaj na początek i na koniec listy wartość 10
+Wyświetl listę
+Dodaj na czwartej pozycji liczbę 20
+Przepisz listę do std::array<T, N>
+Wyświetl <std::array<T, N>
