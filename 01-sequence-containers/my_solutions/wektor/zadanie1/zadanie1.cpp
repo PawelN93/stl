@@ -4,10 +4,11 @@
 
 void delete_first(std::vector<int> &w)
 {
-    auto value = w[0];
+    //auto value = w[0];
 
-    auto it = std::remove(w.begin(), w.end(), value);
-    w.erase(it, w.end());
+    //auto it = std::remove(w.begin(), w.end(), value);
+    //w.erase(it, w.end());
+    w.erase(w.begin());
 }
 
 void print_vec(const std::vector<int> &w)
