@@ -11,7 +11,7 @@ int main()
     std::array<int, 10> arr{};
 
     arr = tab;
-    //tab.swap(arr);
+    // tab.swap(arr);
 
     std::cout << "Zawartosc 1 tablicy: " << std::endl;
 
