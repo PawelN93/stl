@@ -1,0 +1,9 @@
+Zadanie #1
+Pomyśl, kiedy empty() może zwrócić true dla std::array<T, N>
+Znajdź dokumentację funkcji empty() dla std::array<T, N> na cppreference.com
+Przejdź do sekcji Example i kliknij Run przy przykładzie z kodem
+Dopisz nową tablicę intów o rozmiarze 3 i nazwie other bez przypisywania jej elementów - std::array<int, 3> other;
+Dodaj kod odpowiedzialny za wyświetlenie informacji czy ta tablica jest pusta
+Zweryfikuj to ze swoją intuicją z pierwszego punktu 😁
+Wypisz zawartość tablicy other
+Zmień kompilator np. na clang i zobacz czy zawartość jest taka sama
