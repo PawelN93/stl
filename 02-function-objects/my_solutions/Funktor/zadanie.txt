@@ -1,0 +1,2 @@
+Zadanie
+Utwórz funktor sprawdzający czy podana liczba typu int jest podzielna przez 6
