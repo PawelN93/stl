@@ -1,0 +1,5 @@
+Zadanie
+Napisz funkcję middle, która może być wywoływana na różnych kontenerach. Funkcja ta powinna zwracać środkowy element w kolekcji. Napisz ją w konwencji algorytmów z biblioteki STL, czyli jako argumenty chcemy podać 2 iteratory
+
+auto middle(Iter first, Iter last);
+Za Iter musisz podstawić właściwe typy parametrów i napisać kilka przeciążeń tej funkcji. Możesz też... użyć szablonów, jeśli wiesz jak ).
