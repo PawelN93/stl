@@ -1,0 +1,6 @@
+Zadanie 💻
+Utwórz std::vector<int> v = {8, 2, 5, 3, 4, 4, 2, 7, 6, 6, 1, 8, 9};
+Usuń wszystkie duplikaty z v
+Wypisz wszystkie elementy, używając std::copy i std::ostream_iterator
+Pomieszaj losowo wszystkie elementy
+Wypisz je raz jeszcze
