@@ -40,10 +40,16 @@ int main()
     }
     std::cout << std::endl;
 
-    std::vector<char> v4;
+    /*std::vector<char> v4;
 
     std::generate_n(std::back_inserter(v4), 13, [c = 'a' - 2]() mutable
                     { return c += 2; });
+*/
+    constexpr size_t size = 13;
+    std::vector<char> v4(size);
+
+    std::generate(v4.begin(), v4.end(), [c = 'a' - 2]() mutable
+                  { return c += 2; });
 
     for (const auto &el : v4)
     {
