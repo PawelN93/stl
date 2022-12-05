@@ -1,0 +1,10 @@
+Zadanie 💻
+Utwórz poniższy wektor:
+
+ std::vector<std::pair<int, std::string>> v {
+     {0, "Zero"}, {1, "One"}, {2, "Two"}, {3, "Three"}, {4, "Four"}, {5, "Five"}
+ };
+Utwórz wektor intów v2 i wypełnij go wszystkimi intami (pierwszymi elementami pary) z wektora v
+
+Utwórz wektor stringów v3 i wypełnij go konkatenacją string + dwukropek + int ze wszystkich par z wektora v
+Utwórz wektor charów v4 i wypełnij go co drugą literą alfabetu
