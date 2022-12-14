@@ -27,6 +27,15 @@ int main()
     map.insert({5, "Ma"});
     map.insert({5, "Ale"});
 
+    for (auto el : map)
+    {
+        std::cout<<el.first<<"\t"<<el.second<<'\n';
+    }
+
+    auto it = map.begin();
+
+    std::cout<<it->first<<" "<<it->second<<'\n';
+
     auto [first, second] = map.equal_range(5);
 
     display_3char(first, second);
