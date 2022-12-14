@@ -9,7 +9,7 @@ void display_3char(const std::multimap<int, std::string>::iterator & iter1, cons
     {
         if (3 == index->second.size())
         {
-            std::cout<<index->first<<" | "<<index->second<<'\n';
+            std::cout<<(*index).first<<" | "<<index->second<<'\n';
         }
     }
 
