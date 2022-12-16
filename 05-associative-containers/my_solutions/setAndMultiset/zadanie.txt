@@ -1,0 +1,8 @@
+Zadanie
+Wygeneruj zbiór liczb od -20 do 20 i zapisz go w std::set w kolejności malejącej
+Wstaw nowe elementy: -10, 0, 10, 100, -100
+Wygeneruj drugi zbiór z liczb od 0 do 40 i zapisz go w std::multiset
+Wstaw nowe elementy: -10, 0, 10, 100, -100
+Połącz oba zbiory w jeden (ma to być std::multiset)
+Znajdź wszystkie elementy równe 0 i 50
+Co każdy krok wypisuj zawartości kontenerów.
