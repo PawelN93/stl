@@ -1,0 +1,11 @@
+Zadanie:
+Znajdź dokumentację std:deque na cppreference.com
+Stwórz nowy plik i napisz funkcję main()
+Stwórz pusty deque
+Dodaj do niego pięć dowolnych wartości
+Wyświetl deque
+Usuń drugi i czwarty element
+Dodaj na początek i koniec wartość 30
+Wyświetl deque
+Dodaj na czwartej pozycji liczbę 20
+Wyświetl deque
