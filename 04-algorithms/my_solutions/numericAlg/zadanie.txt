@@ -1,0 +1,6 @@
+Zadanie 💻
+Utwórz wektor v1 z liczbami od 1 do 1000
+Oblicz sumę tych liczb
+Utwórz wektor v2 z 1000 elementów powtarzających się w następującej sekwencji: -1, 0, 1, 0, -1, 0, 1, 0, ...
+Oblicz iloczyn skalarny wektorów v1 i v2
+Oblicz sumę tych liczb z v1, które są na pozycjach dodatnich jedynek z wektora v2
