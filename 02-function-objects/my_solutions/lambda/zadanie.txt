@@ -1,0 +1,10 @@
+Zadania
+Utwórz lambdę, która przyjmie 2 argumenty typu int oraz zwróci ich iloczyn
+Utwórz lambdę, która do podanego ciągu znaków doda cudzysłów. np.
+krowa -> "krowa"
+Utwórz lambdę, która wypisze ciąg znaków *. Przy każdym zawołaniu funkcji powinniśmy dostać ciąg dłuższy o jedną *. Kolejno:
+
+*
+**
+***
+itd.
